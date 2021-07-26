@@ -29,7 +29,7 @@ function Success() {
       <Jumbotron>
         <h1>Success!</h1>
         <h2>Thank You for your purchase!</h2>
-        <h2>You will be redirected to the hompage in a few seconds.</h2>
+        <h2>You will be redirected to the homepage in a few seconds.</h2>
       </Jumbotron>
     </div>
   );
